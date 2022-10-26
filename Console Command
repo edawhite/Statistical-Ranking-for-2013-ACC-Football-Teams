@@ -1,0 +1,4 @@
+%After loading the variables Scores1 and Differentials1 type the commands 'colley' and 'massey' without the quotes and run to get the output for each ranking method
+
+%colley returns a ranking using a probabilitic measure of each team's likelyhood of winning a matchup against a unknown opponent based on their record from the regular season
+%massey returns a predicted score differential of each team against an unknown opponent, negative scores indicating a predicted loss
